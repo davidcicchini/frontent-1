@@ -4,6 +4,9 @@
 
 */
 
+/* ! body */
+
+
 /* ! anchor tag */
 a {
     text-decoration: none!important
@@ -39,9 +42,6 @@ a {
 /* !header*/
 
 header{
-    background-image: url('./media/header.png'); /* Specifica l'URL dell'immagine di sfondo */
-    background-size: cover; /* Scala l'immagine per coprire l'intero header */
-    background-position: center; /* Centra l'immagine di sfondo */
     color: #fff; /* Colore del testo */
     text-align: center; /* Allineamento del testo */
 }
