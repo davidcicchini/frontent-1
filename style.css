@@ -1,0 +1,49 @@
+/* ! Indice CSS
+? ROOT: COLORI, FONT
+
+
+*/
+
+/* ! anchor tag */
+a {
+    text-decoration: none!important
+}
+
+.footer-a{
+    color: white;
+}
+
+/* ! ROOT */
+:root{
+    --sealBrown: #582707
+    --brown: #972D07
+    --tomato: #FF4B3E
+    --selYellow: #FFB20F
+    --maize: #FFE548
+}
+
+/* ! FONT */
+.jersey-h1 {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 200px;
+}
+.jersey-h2 {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+}
+
+/* !header*/
+
+header{
+    background-image: url('./media/header.png'); /* Specifica l'URL dell'immagine di sfondo */
+    background-size: cover; /* Scala l'immagine per coprire l'intero header */
+    background-position: center; /* Centra l'immagine di sfondo */
+    color: #fff; /* Colore del testo */
+    text-align: center; /* Allineamento del testo */
+}
+
+
